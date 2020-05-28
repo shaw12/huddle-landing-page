@@ -1,5 +1,5 @@
 body{
-    background: url("/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg");
+    background: url("/images/bg-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -86,7 +86,7 @@ button{
 @media screen and (max-width: 768px){
 
     body{
-        background: url('/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg');
+        background: url('/images/bg-mobile.svg');
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 100vh;
